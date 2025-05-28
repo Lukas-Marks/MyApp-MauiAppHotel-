@@ -26,7 +26,7 @@ namespace MauiAppHotel
             },
             new Quarto()
             {
-                Descricao = "Suíte New York",
+                Descricao = "Suuíte New York",
                 ValorDiariaAdulto = 25,
                 ValorDiariaCrianca = 12.5
             }
