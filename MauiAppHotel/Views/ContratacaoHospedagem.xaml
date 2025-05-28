@@ -89,6 +89,10 @@
 
                 <Button Text="Avançar" Clicked="Button_Clicked" BackgroundColor="black"  />
 
+                <Label Text="Developer:Lucas Marques" />
+                <Label Text="2025" />
+                <Label Text=" " />
+                
             </VerticalStackLayout>
         </Frame>
 
